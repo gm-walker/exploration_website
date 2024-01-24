@@ -1,5 +1,6 @@
+import Navbar from "@/components/navbar";
 import Image from "next/image";
-
+Navbar
 export default function Home() {
   return (
     <main className="flex m-8">
