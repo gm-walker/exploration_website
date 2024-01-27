@@ -13,7 +13,7 @@ Ok, to be a bit more specific, I am planning on creating a blog-like website tha
 Well, I was able to implement:
 
 - A basic navigation bar component
-- Hover-based states
+- Hover-based states (Tailwind CSS)
 <!-- I plan to add to this section a ton. -->
 
 ## What am I planning on implementing?
@@ -26,5 +26,5 @@ I plan to implement:
 - A more advanced navigation bar
   - Drawers
   - Notifications
-- Modals (in some way)
+- Frosted Glass Modals and Cards
 - Looping background video
