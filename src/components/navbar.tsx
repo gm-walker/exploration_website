@@ -4,7 +4,7 @@ export default function Navbar(){
     return(
         <nav className="flex flex-row *:align-center justify-around gap-9 bg-zinc-700/50 p-2 m-3 rounded-xl *:rounded-xl *:p-1 *:m-1 *:text-zinc-400">
             <Link 
-            href="" 
+            href="/notes" 
             className="
                 flex-none
                 justify-center 
